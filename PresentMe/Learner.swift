@@ -9,10 +9,10 @@ import Foundation
 
 struct Learner {
     
-//    var name: String
-//    var surname: String
-//    var age: Int
-//    var imageName: String
-//    var shortBio: String
+    var name: String
+    var surname: String
+    var age: Int
+    var imageName: String
+    var shortBio: String
     
 }
