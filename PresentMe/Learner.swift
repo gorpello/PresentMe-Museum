@@ -7,8 +7,10 @@
 
 import Foundation
 
+// Creamo un oggetto di tipo Learner: Vedi "Programmzaione ad Oggetti"
 struct Learner {
     
+    // Quando modelliamo oggetti in programmazione aggiungiamo le informazioni necessarie a definire quell'oggettto stesso.
     var name: String
     var surname: String
     var age: Int
