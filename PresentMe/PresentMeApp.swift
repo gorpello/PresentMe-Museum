@@ -7,6 +7,9 @@
 
 import SwiftUI
 
+// Punto di ingresso della mia App.
+// Nel corpo della mia app vado a definire le View che comporranno le mie schermate.
+// In questo caso, presentiamo un unica schermata, chiamata PresentMeView
 @main
 struct PresentMeApp: App {
     var body: some Scene {
