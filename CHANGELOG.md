@@ -1,7 +1,7 @@
 ## CHANGELOG
 
-## Version 1.0.0 (aaaa-mm-dd)
+## Version 1.0.0 (2021-12-21)
 
 First release:
 
-* <Project Name> - <Comment>
+* Present Me - Initial Commit
